@@ -1,4 +1,4 @@
-# Deep_Learning_For_Fault_Diagnosi
+# Deep_Learning_For_Fault_Diagnosis
 基于深度学习的故障诊断
 Date: 2023/11/29 22:58 Author: Tan Qiyu 
 Home: https://github.com/Tan-Qiyu
