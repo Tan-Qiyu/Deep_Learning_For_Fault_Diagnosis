@@ -9,6 +9,8 @@ E-mail：929796695@qq.com
 
 Home: https://github.com/Tan-Qiyu
 
+Dataset Download Link：https://github.com/Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset
+
 This repository mainly stores mechanical fault diagnosis codes based on deep learning, including the following stages: data preprocessing, building deep learning model training, validation, and visualization. 
 The data preprocessing converts the original vibration signals into one-dimensional original signals and different types of two-dimensional image signals as model inputs. 
 The network model includes one-dimensional and two-dimensional deep learning models, 
